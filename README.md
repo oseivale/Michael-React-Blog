@@ -1,13 +1,18 @@
 # Michael-React-Blog
 
+<h3>
 A basic blog site, using ReactJS, CSS and any additional tools you wish to use t build the other functionality.
 
-This site should allow a user to:
+</h3>
 
--Create a blog article
--View a blog artical
--Edit a blog artical
--Delete a Blog article
+<p>This site should allow a user to:</p>
+
+<ul>
+  <li>Create a blog article</li>
+  <li>View a blog artical</li>
+  <li>Edit a blog artical</li>
+  <li>Delete a Blog article</li>
+</ul>
 
 Each page/view should be styled using CSS/additional CSS library if you like.
 
