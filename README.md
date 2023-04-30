@@ -1,8 +1,7 @@
 # Michael-React-Blog
 
 <h3>
-A basic blog site, using ReactJS, CSS and any additional tools you wish to use t build the other functionality.
-
+A basic blog site, using ReactJS, CSS and any additional tools you wish to use to build the other functionality.
 </h3>
 
 <p>This site should allow a user to:</p>
